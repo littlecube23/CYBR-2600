@@ -1,18 +1,38 @@
 # CYBR-2600
 
-#Deffie Helman Key-Exchange Video
+# Cyber VIPs
+John Hammond:
+Focuses on CTF Walkthroughs and malware analysis
+https://www.youtube.com/@_JohnHammond
+
+Rana Khalil: 
+Does Web Security Academy videos, great for learning BurpSuite
+https://www.youtube.com/@RanaKhalil101
+
+# Movie Examples:
+Catch me if you Can (Social Engineering):
+https://youtu.be/gFr0_ywVdhY
+
+The Imitation Game (Cryptography): 
+https://youtu.be/mwFWMM9APLs
+
+# Deffie Helman Key-Exchange Video
+This clip from the 2008 Royal Institution Christmas Lectures shows a simple demonstration of how two people can agree on a secret key, even though all of their communications are carried out in public. 
 https://youtu.be/U62S8SchxX4
 
 
-#Cyber-Related Music
-#Dual Core:
+# Cyber-Related Music
+Dual Core:
 https://www.youtube.com/@dualcoremusic
 
-#YTCracker:
+YTCracker:
 https://www.youtube.com/@realytcracker
 
-#Ohm-I:
+Ohm-I:
 https://www.youtube.com/@MCOhmi
 
+Mini-Doc on NerdCore:
+https://www.youtube.com/watch?v=QI5TQl7FfX0
+
 A list of added resources for topics discussed in class.
-This is not endorsed by Augusta University. This is simply a collection of items 
+This is not endorsed by Augusta University and all thoughts are my own.
