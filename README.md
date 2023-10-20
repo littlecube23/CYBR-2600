@@ -5,6 +5,10 @@ John Hammond:
 Focuses on CTF Walkthroughs and malware analysis
 https://www.youtube.com/@_JohnHammond
 
+Professor Messer:
+Most comprehensive choice for CompTIA A+, Network+, Security+, and other IT certifications.
+https://www.youtube.com/@professormesser
+
 Rana Khalil: 
 Does Web Security Academy videos, great for learning BurpSuite
 https://www.youtube.com/@RanaKhalil101
