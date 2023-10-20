@@ -21,6 +21,18 @@ This clip from the 2008 Royal Institution Christmas Lectures shows a simple demo
 https://youtu.be/U62S8SchxX4
 
 
+# Game-Esque Learning
+
+Backdoors and Breaches
+D&D Style Card Game
+https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/
+
+Cyber Threat Defender
+Magic The Gathering Card Game
+https://cias.utsa.edu/ctd/play-online/
+
+
+
 # Cyber-Related Music
 Dual Core:
 https://www.youtube.com/@dualcoremusic
