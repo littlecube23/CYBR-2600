@@ -16,7 +16,7 @@ https://youtu.be/gFr0_ywVdhY
 The Imitation Game (Cryptography): 
 https://youtu.be/mwFWMM9APLs
 
-# Deffie Helman Key-Exchange Video
+# Diffie–Hellman Key Exchange Video
 This clip from the 2008 Royal Institution Christmas Lectures shows a simple demonstration of how two people can agree on a secret key, even though all of their communications are carried out in public. 
 https://youtu.be/U62S8SchxX4
 
