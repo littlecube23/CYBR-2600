@@ -13,6 +13,10 @@ Rana Khalil: <br />
 Does Web Security Academy videos, great for learning BurpSuite <br />
 https://www.youtube.com/@RanaKhalil101
 
+IppSec <br />
+The channel features videos on various topics such as penetration testing, hacking, and cybersecurity. <br />
+https://www.youtube.com/@ippsec
+
 
 # Hands-On Practice
 TryHackMe <br />
@@ -37,6 +41,10 @@ Ubertooth One <br />
 Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation <br />
 https://ubertooth.readthedocs.io/en/latest/ubertooth_one.html <br />
 
+fleet (MDM) <br />
+List of MDM scripts so you can see what goes into managing a cell phone policy. <br />
+https://github.com/fleetdm/fleet/tree/main/mdm_profiles
+
 # Articles and Videos
 Diffie–Hellman Key Exchange Video <br />
 This clip from the 2008 Royal Institution Christmas Lectures shows a simple demonstration of how two people can agree on a secret key, even though all of their communications are carried out in public. <br />
@@ -48,7 +56,7 @@ https://portswigger.net/daily-swig/attack-the-block-how-a-security-researcher-cr
 
 Wireless Security <br />
 An overview of wireless security <br />
-https://cdn.ttgtmedia.com/rms/onlineimages/networking-wireless_security_cheat_sheet-f.png
+https://www.techtarget.com/searchnetworking/feature/Wireless-encryption-basics-Understanding-WEP-WPA-and-WPA2
 
 # Game-Esque Learning
 
