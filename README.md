@@ -23,19 +23,12 @@ Hack The Box <br />
 Enables individuals to sharpen their offensive and defensive security expertise. <br />
 https://www.hackthebox.com/
 
-# Movie Examples:
-Catch me if you Can (Social Engineering):
-https://youtu.be/gFr0_ywVdhY
-
-The Imitation Game (Cryptography): 
-https://youtu.be/mwFWMM9APLs
-
-# Diffie–Hellman Key Exchange Video
-This clip from the 2008 Royal Institution Christmas Lectures shows a simple demonstration of how two people can agree on a secret key, even though all of their communications are carried out in public. <br />
-https://youtu.be/U62S8SchxX4
-
 
 # Tools/Techniques/Products
+Flipper Zero <br />
+portable multi-tool for pentesters <br />
+https://flipperzero.one/
+
 Bluing (blue-scan) <br />
 An intelligence gathering tool for hacking Bluetooth <br />
 https://github.com/fO-000/bluing <br />
@@ -44,7 +37,18 @@ Ubertooth One <br />
 Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation <br />
 https://ubertooth.readthedocs.io/en/latest/ubertooth_one.html <br />
 
+# Articles and Videos
+Diffie–Hellman Key Exchange Video <br />
+This clip from the 2008 Royal Institution Christmas Lectures shows a simple demonstration of how two people can agree on a secret key, even though all of their communications are carried out in public. <br />
+https://youtu.be/U62S8SchxX4
 
+Tel Aviv Researcher Story <br />
+A new attack takes advantage of weak WiFi passwords <br />
+https://portswigger.net/daily-swig/attack-the-block-how-a-security-researcher-cracked-70-of-urban-wifi-networks-in-one-hit <br />
+
+Wireless Security <br />
+An overview of wireless security <br />
+https://cdn.ttgtmedia.com/rms/onlineimages/networking-wireless_security_cheat_sheet-f.png
 
 # Game-Esque Learning
 
@@ -56,7 +60,12 @@ Cyber Threat Defender <br />
 Magic The Gathering Card Game <br />
 https://cias.utsa.edu/ctd/play-online/
 
+# Movie Examples:
+Catch me if you Can (Social Engineering): <br />
+https://youtu.be/gFr0_ywVdhY
 
+The Imitation Game (Cryptography): <br />
+https://youtu.be/mwFWMM9APLs
 
 # Cyber-Related Music
 Dual Core: <br />
