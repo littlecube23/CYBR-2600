@@ -35,6 +35,17 @@ This clip from the 2008 Royal Institution Christmas Lectures shows a simple demo
 https://youtu.be/U62S8SchxX4
 
 
+# Tools/Techniques/Products
+Bluing (blue-scan) <br />
+An intelligence gathering tool for hacking Bluetooth <br />
+https://github.com/fO-000/bluing <br />
+
+Ubertooth One <br />
+Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation <br />
+https://ubertooth.readthedocs.io/en/latest/ubertooth_one.html <br />
+
+
+
 # Game-Esque Learning
 
 Backdoors and Breaches <br />
