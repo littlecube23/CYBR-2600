@@ -9,6 +9,10 @@ Professor Messer: <br />
 Most comprehensive choice for CompTIA A+, Network+, Security+, and other IT certifications. <br />
 https://www.youtube.com/@professormesser
 
+David Bombal <br />
+Weekly IT training courses on various topics including Ethical Hacking, Networking, Virtualization, and more.
+https://youtube.com/@davidbombal
+
 Rana Khalil: <br />
 Does Web Security Academy videos, great for learning BurpSuite <br />
 https://www.youtube.com/@RanaKhalil101
@@ -31,11 +35,26 @@ Hack The Box <br />
 Enables individuals to sharpen their offensive and defensive security expertise. <br />
 https://www.hackthebox.com/
 
+National Cyber League <br />
+Join most inclusive, performance-based, learning-centered collegiate cybersecurity competition today!
+https://nationalcyberleague.org/
 
 # Tools/Techniques/Products
 PFsense: <br />
 pfSense is a open source firewall/router computer software distribution based on FreeBSD <br />
 https://www.pfsense.org/
+
+Security Onion <br />
+Security Onion is free and open platform for threat hunting, network security monitoring, and log management; including Suricata, Zeek, the Elastic Stack, and many others.
+https://securityonionsolutions.com/
+
+Snort <br />
+Snort is the foremost Open Source Intrusion Prevention System (IPS) in the world that uses a series of rules that help define malicious network activity.
+https://www.snort.org/
+
+Suricata <br />
+Suricata is a high-performance, open-source network analysis and threat detection software.
+https://suricata.io/
 
 Flipper Zero <br />
 portable multi-tool for pentesters <br />
