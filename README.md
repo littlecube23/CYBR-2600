@@ -17,6 +17,10 @@ IppSec <br />
 The channel features videos on various topics such as penetration testing, hacking, and cybersecurity. <br />
 https://www.youtube.com/@ippsec
 
+Chris Greer <br />
+This channel is about analyzing protocols with Wireshark and other packet shredding tools. <br />
+https://www.youtube.com/c/chrisgreer
+
 
 # Hands-On Practice
 TryHackMe <br />
