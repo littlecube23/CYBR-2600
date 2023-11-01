@@ -36,8 +36,12 @@ Enables individuals to sharpen their offensive and defensive security expertise.
 https://www.hackthebox.com/
 
 National Cyber League <br />
-Join most inclusive, performance-based, learning-centered collegiate cybersecurity competition today!
+Join most inclusive, performance-based, learning-centered collegiate cybersecurity competition today! <br />
 https://nationalcyberleague.org/
+
+PocketPrep <br />
+Subsciption Based Prep App that gives a daily set of questions to help you prepare for the SEC+ exam. Know a couple people who used this and passed on their first try. <br />
+https://www.pocketprep.com/exams/comptia-security/
 
 # Tools/Techniques/Products
 PFsense: <br />
@@ -45,15 +49,15 @@ pfSense is a open source firewall/router computer software distribution based on
 https://www.pfsense.org/
 
 Security Onion <br />
-Security Onion is free and open platform for threat hunting, network security monitoring, and log management; including Suricata, Zeek, the Elastic Stack, and many others.
+Security Onion is free and open platform for threat hunting, network security monitoring, and log management; including Suricata, Zeek, the Elastic Stack, and many others. <br />
 https://securityonionsolutions.com/
 
 Snort <br />
-Snort is the foremost Open Source Intrusion Prevention System (IPS) in the world that uses a series of rules that help define malicious network activity.
+Snort is the foremost Open Source Intrusion Prevention System (IPS) in the world that uses a series of rules that help define malicious network activity. <br />
 https://www.snort.org/
 
 Suricata <br />
-Suricata is a high-performance, open-source network analysis and threat detection software.
+Suricata is a high-performance, open-source network analysis and threat detection software. <br />
 https://suricata.io/
 
 Flipper Zero <br />
