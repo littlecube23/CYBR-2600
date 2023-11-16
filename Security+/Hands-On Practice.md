@@ -20,9 +20,9 @@ TCM Security Academy is an online cybersecurity training platform that offers a 
 https://academy.tcm-sec.com/
 
 Hacker101 <br />
-(Great for bug bounties) <br />
+Hacker101 is a free class for web security <br />
 https://www.hacker101.com/ 
 
 Tracelabs <br />
-(Find Missing Persons) <br />
+Trace Labs is a nonprofit organization whose mission is to accelerate the family reunification of missing persons while training members in the tradecraft of open source intelligence (OSINT) <br />
 https://www.tracelabs.org/
