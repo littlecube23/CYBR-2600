@@ -34,3 +34,11 @@ https://github.com/fleetdm/fleet/tree/main/mdm_profiles
 DragonOS <br />
 a Debian Linux-based operating system that comes pre-installed with many open-source software-defined radio programs <br />
 https://cemaxecuter.com/
+
+Github for Students <br />
+a range of free tools and services for students to learn, create, and share software projects <br />
+https://education.github.com/pack#offers
+
+Gitlab for Students <br />
+The GitLab for Education Program provides the top tiers of GitLab for free to students, teachers and faculty at educational institutions around the globe for teaching, learning and research. <br />
+https://about.gitlab.com/solutions/education/
