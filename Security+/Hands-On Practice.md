@@ -26,3 +26,7 @@ https://www.hacker101.com/
 Tracelabs <br />
 Trace Labs is a nonprofit organization whose mission is to accelerate the family reunification of missing persons while training members in the tradecraft of open source intelligence (OSINT) <br />
 https://www.tracelabs.org/
+
+SANS Holiday Hack <br />
+The SANS Holiday Hack Challenge is a FREE series of super fun, high-quality, hands-on cybersecurity challenges. The SANS Holiday Hack Challenge is for all skill levels, with a prize at the end for the best of the best entries. <br />
+https://www.sans.org/mlp/holiday-hack-challenge-2023/
