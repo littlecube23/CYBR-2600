@@ -22,10 +22,3 @@ https://www.youtube.com/@ippsec
 Chris Greer <br />
 This channel is about analyzing protocols with Wireshark and other packet shredding tools. <br />
 https://www.youtube.com/c/chrisgreer
-
-# Movie Examples:
-Catch me if you Can (Social Engineering): <br />
-https://youtu.be/gFr0_ywVdhY
-
-The Imitation Game (Cryptography): <br />
-https://youtu.be/mwFWMM9APLs
