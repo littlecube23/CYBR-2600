@@ -14,3 +14,8 @@ https://www.techtarget.com/searchnetworking/feature/Wireless-encryption-basics-U
 WarDragon Advanced LTE Network + LTESniffer Experiment w/ DragonOS FocalX <br />
 setting up an advanced LTE network using DragonOS FocalX on the WarDragon <br />
 https://youtu.be/60rPPlLV5I8
+
+
+SANS DFIR <br />
+A website that provides various resources, courses, certifications, and events for digital forensics and incident response (DFIR) professionals. <br />
+https://www.sans.org/digital-forensics-incident-response/
