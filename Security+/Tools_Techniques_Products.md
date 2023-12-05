@@ -3,6 +3,10 @@ Arkime <br />
 Arkime (formerly Moloch) is a tool that allows you to store and index network traffic in PCAP format and search for sessions, fields, and values. <br />
 https://arkime.com/
 
+CeWL <br />
+CeWL is a ruby app which spiders a given URL to a specified depth, optionally following external links, and returns a list of words which can then be used for password crackers such as John the Ripper. <br />
+https://github.com/digininja/CeWL
+
 Forensic Tools  <br />
 Eric Zimmerman's open source tools can be used in a wide variety of investigations including cross-validation of tools, providing insight into technical details not exposed by other tools, and more. <br />
 https://ericzimmerman.github.io/#!index.md
