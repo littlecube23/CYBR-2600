@@ -3,6 +3,14 @@ TryHackMe <br />
 A free online platform for learning cyber security, using hands-on exercises and labs, all through your browser! <br />
 https://tryhackme.com/
 
+THM AoC Task 10 <br />
+Practice using CeWL (pronounced "cool"), a custom word list generator tool that spiders websites to create word lists based on the site's content. <br />
+https://tryhackme.com/room/adventofcyber2023
+
+THM SideQuest <br />
+Something extra for more advanced participants <br />
+https://tryhackme.com/room/adventofcyber23sidequest
+
 Hack The Box <br />
 Enables individuals to sharpen their offensive and defensive security expertise. <br />
 https://www.hackthebox.com/
